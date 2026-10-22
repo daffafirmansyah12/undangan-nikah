@@ -1,0 +1,16 @@
+{
+  "name": "undangan-pernikahan",
+  "version": "1.0.0",
+  "description": "Undangan pernikahan digital dengan RSVP (CRUD) - Node.js, Express, MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
